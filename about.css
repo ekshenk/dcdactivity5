@@ -1,7 +1,10 @@
 body{
 	background-color:#ffccff;
 	color:#000000;
+	text-align: center;
+	text
 }
-img{
-	align: center;
+p{
+	font-family: "Georgia", Georgia, serif;
+	font-size: 12px;
 }
