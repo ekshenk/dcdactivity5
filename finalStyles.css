@@ -2,26 +2,32 @@ body{
 	background-color: #B689FF;
 	font-family: Garamond, serif;
 }
+
 h1{
 	color: black;
 	text-align: center;
 	font-family: 'Brush Script MT', cursive;
 }
+
 .summary{
 	text-align: center;
 }
+
 h2{
 	font-family: 'Brush Script MT', cursive;
 	text-align: center;
 }
+
 h3{
 	font-family: 'Brush Script MT', cursive;
 }
+
 h4{
 	font-family: 'Lucida Handwriting', cursive;
 }
+
 p{
-	
+	font-family: 'Lucida Handwriting', cursive;
 }
 .nav{
 	text-align: center;
