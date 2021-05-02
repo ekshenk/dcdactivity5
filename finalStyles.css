@@ -7,6 +7,7 @@ h1{
 	color: black;
 	text-align: center;
 	font-family: 'Brush Script MT', cursive;
+	font-size: 40px;
 }
 
 .summary{
@@ -16,10 +17,12 @@ h1{
 h2{
 	font-family: 'Brush Script MT', cursive;
 	text-align: center;
+	font-size: 37px;
 }
 
 h3{
 	font-family: 'Brush Script MT', cursive;
+	font-size: 35px;
 }
 
 h4{
