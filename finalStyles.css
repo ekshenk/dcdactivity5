@@ -37,8 +37,11 @@ p{
 .nav{
 	text-align: center;
 	font-size: 30px;
+	font-family: 'Brush Script MT', cursive;
+
 }
 
 .statement{
 	color: black;
 }
+
